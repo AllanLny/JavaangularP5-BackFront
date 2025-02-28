@@ -60,8 +60,13 @@ back/taget/site/jacoco-merged-test-coverage-report/index.html
 
 ## Coverage 
 
+### Coverage Front Jest
 ![Coverage Front](/CoverageRapport/imageJest.png)
 
+### Coverage Front E2E
+
 ![Coverage Front E2E](/CoverageRapport/imageE2E.png)
+
+### Coverage Back JUNIT
 
 ![Coverage Back](/CoverageRapport/imageBack.png)
